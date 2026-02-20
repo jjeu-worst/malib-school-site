@@ -1,17 +1,17 @@
-import teacher1 from "@/assets/images/teacher_1.jpg";
-import teacher2 from "@/assets/images/teacher_2.jpg";
-import teacher3 from "@/assets/images/teacher_3.jpg";
+import teacher1 from "@/assets/images/teacher_p.jpg";
+import teacher2 from "@/assets/images/teacher_p.jpg";
+import teacher3 from "@/assets/images/teacher_p.jpg";
 
 export default function Teachers() {
   const TEACHERS = [
-    { name: "K.H. Ahmad Fulan, M.Pd.", role: "Kepala Sekolah", subject: "Ilmu Tafsir", img: teacher1 },
-    { name: "Ust. Hasanuddin, S.Pd.", role: "Waka Kurikulum", subject: "Matematika", img: teacher2 },
-    { name: "Dra. Hj. Siti Aminah", role: "Guru", subject: "Biologi & Kimia", img: teacher3 },
-    { name: "Ust. M. Ali, S.Ag.", role: "Waka Kesiswaan", subject: "Aqidah Akhlaq", img: teacher1 },
-    { name: "Budi Santoso, M.Kom.", role: "Guru / Pembina IT", subject: "TIK", img: teacher2 },
-    { name: "Rina Wijayanti, S.Pd.", role: "Guru", subject: "Bahasa Inggris", img: teacher3 },
-    { name: "Agus Pratama, S.Pd.", role: "Guru / Pembina Olahraga", subject: "Penjaskes", img: teacher1 },
-    { name: "Drs. H. Rahman Hakim", role: "Guru", subject: "Sosiologi", img: teacher2 },
+    { name: "K.H. kepala sekolah.", role: "Kepala Sekolah", subject: "Ilmu Tafsir", img: teacher1 },
+    { name: "Ust. waka, S.Pd.", role: "Waka Kurikulum", subject: "Matematika", img: teacher2 },
+    { name: "guru", role: "Guru", subject: "Biologi & Kimia", img: teacher3 },
+    { name: "waka", role: "Waka Kesiswaan", subject: "Aqidah Akhlaq", img: teacher1 },
+    { name: "guru", role: "Guru / Pembina IT", subject: "TIK", img: teacher2 },
+    { name: "guru", role: "Guru", subject: "Bahasa Inggris", img: teacher3 },
+    { name: "guru", role: "Guru / Pembina Olahraga", subject: "Penjaskes", img: teacher1 },
+    { name: "guru", role: "Guru", subject: "Sosiologi", img: teacher2 },
   ];
 
   return (
