@@ -23,7 +23,7 @@ export default function Home() {
           <div className="max-w-3xl space-y-6 animate-in fade-in slide-in-from-bottom-8 duration-700">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-white/10 backdrop-blur-sm border border-white/20 text-sm font-medium mb-2">
               <span className="w-2 h-2 rounded-full bg-secondary animate-pulse" />
-              Pendaftaran Siswa Baru 2024/2025 Dibuka
+              Pendaftaran Siswa Baru 2025/2026 Dibuka
             </div>
             
             <h1 className="text-5xl md:text-6xl lg:text-7xl font-heading font-extrabold tracking-tight leading-tight">
