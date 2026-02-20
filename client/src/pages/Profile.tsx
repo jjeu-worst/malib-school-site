@@ -103,7 +103,7 @@ export default function Profile() {
                    <img src={principalImg} alt="Kepala Sekolah" className="w-full h-full object-cover" />
                 </div>
                 <div className="bg-slate-900 text-white px-6 py-2 rounded-lg font-bold">
-                  K.H. Ahmad Fulan, M.Pd.
+                  K.H. kepala sekolah.
                 </div>
                 <div className="text-sm text-slate-500 font-medium mt-1">Kepala Sekolah</div>
               </div>
@@ -114,9 +114,9 @@ export default function Profile() {
               <div className="flex w-full max-w-3xl justify-between pt-8 relative">
                 {/* Waka */}
                 {[
-                  { title: "Waka Kurikulum", name: "Ust. Hasanuddin, S.Pd" },
-                  { title: "Waka Kesiswaan", name: "Ust. M. Ali, S.Ag" },
-                  { title: "Waka Sarpras", name: "Ust. Rahman, S.E" }
+                  { title: "Waka Kurikulum", name: "waka" },
+                  { title: "Waka Kesiswaan", name: "waka 2" },
+                  { title: "Waka Sarpras", name: "waka 3" }
                 ].map((waka, idx) => (
                   <div key={idx} className="flex flex-col items-center flex-1 relative">
                     <div className="absolute -top-8 w-0.5 h-8 bg-slate-300"></div>
