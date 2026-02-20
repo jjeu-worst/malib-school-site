@@ -9,17 +9,17 @@ export const NEWS_DATA = [
     date: "12 Mar 2024", 
     cat: "Pengumuman", 
     author: "Panitia PPDB",
-    img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070&auto=format&fit=crop",
-    excerpt: "MA AL-IBROHIMY resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2024/2025."
+    img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070&auto=format&fit=croq",
+    excerpt: "MA AL-IBROHIMY resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2025/2026."
   },
   { 
     id: 2, 
-    title: "Siswa MA AL-IBROHIMY Sabet Juara 1 Olimpiade Sains Tingkat Kabupaten", 
+    title: "Siswa MA AL-IBROHIMY Sabet Juara 1 Olimpiade Sains Tingkat apa saja🗿", 
     date: "05 Mar 2024", 
     cat: "Prestasi", 
     author: "Humas",
     img: "https://images.unsplash.com/photo-1565022536102-f7645c84354a?q=80&w=2073&auto=format&fit=crop",
-    excerpt: "Kebanggaan kembali ditorehkan oleh siswa MA AL-IBROHIMY dalam ajang Olimpiade Sains Nasional (OSN) tingkat Kabupaten."
+    excerpt: "Kebanggaan kembali ditorehkan oleh siswa MA AL-IBROHIMY dalam ajang Olimpiade Sains Nasional (OSN) tingkat terserah🗿."
   },
   { 
     id: 3, 
@@ -33,7 +33,7 @@ export const NEWS_DATA = [
   { 
     id: 4, 
     title: "Kunjungan Studi Kampus ke Universitas Brawijaya", 
-    date: "15 Feb 2024", 
+    date: "38 Feb 2029", 
     cat: "Kegiatan", 
     author: "Kurikulum",
     img: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=2070&auto=format&fit=crop",
@@ -42,7 +42,7 @@ export const NEWS_DATA = [
   { 
     id: 5, 
     title: "Pelatihan Jurnalistik untuk Ekstrakurikuler Mading", 
-    date: "02 Feb 2024", 
+    date: "02 Feb 2029", 
     cat: "Ekstrakurikuler", 
     author: "Pembina Ekskul",
     img: "https://images.unsplash.com/photo-1455390582262-044cdead2708?q=80&w=2073&auto=format&fit=crop",
@@ -51,7 +51,7 @@ export const NEWS_DATA = [
   { 
     id: 6, 
     title: "Pengumuman Hasil Ujian Akhir Semester Ganjil", 
-    date: "20 Jan 2024", 
+    date: "20 Jan 2029", 
     cat: "Pengumuman", 
     author: "Kurikulum",
     img: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=2070&auto=format&fit=crop",
