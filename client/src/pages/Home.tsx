@@ -1,7 +1,7 @@
 import { Link } from "wouter";
 import { Button } from "@/components/ui/button";
 import { ArrowRight, BookOpen, Award, Users, ChevronRight } from "lucide-react";
-import heroImg from "@/assets/images/hero-bg.jpg";
+import heroImg from "@/assets/images/Project Name 27.png";
 import principalImg from "@/assets/images/IMG_3840.jpeg";
 
 export default function Home() {
