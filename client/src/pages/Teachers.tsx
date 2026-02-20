@@ -1,6 +1,6 @@
-import teacher1 from "@/assets/images/teacher_p.jpg";
-import teacher2 from "@/assets/images/teacher_p.jpg";
-import teacher3 from "@/assets/images/teacher_p.jpg";
+import teacher1 from "@/assets/images/teacher_1.jpg";
+import teacher2 from "@/assets/images/teacher_2.jpg";
+import teacher3 from "@/assets/images/teacher_2.jpg";
 
 export default function Teachers() {
   const TEACHERS = [
