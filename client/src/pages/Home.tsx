@@ -195,9 +195,9 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Dummy News Cards */}
             {[
-              { id: 1, title: "Penerimaan Peserta Didik Baru Gelombang 1", date: "12 Mar 2024", cat: "Pengumuman", img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070&auto=format&fit=crop" },
-              { id: 2, title: "Prestasi Siswa di Ajang Olimpiade Sains Nasional", date: "05 Mar 2024", cat: "Prestasi", img: "https://images.unsplash.com/photo-1565022536102-f7645c84354a?q=80&w=2073&auto=format&fit=crop" },
-              { id: 3, title: "Kegiatan Pesantren Kilat Ramadhan 1445 H", date: "28 Feb 2024", cat: "Kegiatan", img: "https://images.unsplash.com/photo-1604085449277-22a4d95267b2?q=80&w=2070&auto=format&fit=crop" },
+              { id: 1, title: "Penerimaan Peserta Didik Baru Gelombang 1", date: "12 Jul 2026", cat: "Pengumuman", img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070&auto=format&fit=crop" },
+              { id: 2, title: "Prestasi Siswa di Ajang Olimpiade Sains Nasional", date: "05 Mar 2026", cat: "Prestasi", img: "https://images.unsplash.com/photo-1565022536102-f7645c84354a?q=80&w=2073&auto=format&fit=crop" },
+              { id: 3, title: "Kegiatan Pesantren Kilat Ramadhan 1447 H", date: "23 Mar 2026", cat: "Kegiatan", img: "https://images.unsplash.com/photo-1604085449277-22a4d95267b2?q=80&w=2070&auto=format&fit=crop" },
             ].map((news) => (
               <Link key={news.id} href={`/berita/${news.id}`}>
                 <a className="group block bg-white rounded-2xl overflow-hidden shadow-sm border border-slate-100 hover:shadow-lg transition-all hover:-translate-y-1">
