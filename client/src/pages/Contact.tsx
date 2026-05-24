@@ -55,7 +55,7 @@ export default function Contact() {
             <div className="bg-white p-4 rounded-3xl border border-slate-200 shadow-sm">
               <div className="aspect-square lg:aspect-auto lg:h-[600px] w-full bg-slate-100 rounded-2xl overflow-hidden relative">
                 <iframe 
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1m3!1d126620.30141673891!2d113.0645!3d-7.143!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd83842c525fde5%3A0x6b432a5de348bd6f!2sGalis%2C%20Bangkalan%20Regency%2C%20East%20Java!5e0!3m2!1sen!2sid!4v1700000000000!5m2!1sen!2sid" 
+                  src="https://maps.google.com/maps?q=MA%20Al-Ibrohimy%20Galis%20Bangkalan&t=&z=15&ie=UTF8&iwloc=&output=embed" 
                   width="100%" 
                   height="100%" 
                   style={{ border: 0 }} 
