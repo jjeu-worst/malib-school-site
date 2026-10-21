@@ -1,5 +1,5 @@
 import { Link, useLocation } from "wouter";
-import { Menu, X, BookOpen, ChevronDown } from "lucide-react";
+import { Menu, X, ChevronDown } from "lucide-react";
 import { useState } from "react";
 import { Button } from "@/components/ui/button";
 
@@ -22,9 +22,11 @@ export default function Navbar() {
       <div className="container mx-auto px-4 lg:px-8 h-16 flex items-center justify-between">
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group" data-testid="link-home">
-          <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center text-white group-hover:bg-primary/90 transition-colors">
-            <BookOpen className="w-6 h-6" />
-          </div>
+          <img
+            src="/logo-ma-al-ibrohimy.png"
+            alt="Logo MA Al-Ibrohimy"
+            className="h-12 w-10 object-contain"
+          />
           <div>
             <h1 className="font-heading font-bold text-lg leading-tight text-slate-900">
               MA AL-IBROHIMY

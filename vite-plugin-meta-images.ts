@@ -56,6 +56,14 @@ export function metaImagesPlugin(): Plugin {
 }
 
 function getDeploymentUrl(): string | null {
+  const vercelDomain =
+    process.env.VERCEL_PROJECT_PRODUCTION_URL || process.env.VERCEL_URL;
+  if (vercelDomain) {
+    const url = `https://${vercelDomain}`;
+    log('[meta-images] using Vercel domain:', url);
+    return url;
+  }
+
   if (process.env.REPLIT_INTERNAL_APP_DOMAIN) {
     const url = `https://${process.env.REPLIT_INTERNAL_APP_DOMAIN}`;
     log('[meta-images] using internal app domain:', url);
