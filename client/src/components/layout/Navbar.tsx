@@ -23,7 +23,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 group" data-testid="link-home">
           <img
-            src="/logo-ma-al-ibrohimy.png"
+            src="/HEIF Image.jpeg"
             alt="Logo MA Al-Ibrohimy"
             className="h-12 w-10 object-contain"
           />
