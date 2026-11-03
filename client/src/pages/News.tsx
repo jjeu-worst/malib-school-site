@@ -5,7 +5,7 @@ import { Calendar, ArrowRight } from "lucide-react";
 export const NEWS_DATA = [
   { 
     id: 1, 
-    title: "Ketua dan Wakil Baru Media Jurnalistik Ma Al Ibrohimy Periode 2026/2027", 
+    title: "Ketua dan Wakil Baru Media Jurnalistik MA Al Ibrohimy Periode 2026/2027", 
     date: "03 Nov 2026", 
     cat: "Pengumuman", 
     author: "Muhammad Maulana Sulthon El Syairazy",
