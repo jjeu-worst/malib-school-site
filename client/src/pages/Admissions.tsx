@@ -24,7 +24,7 @@ export default function Admissions() {
         <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070')] opacity-10 bg-cover bg-center mix-blend-overlay" />
         <div className="container relative z-10 mx-auto px-4 lg:px-8 text-center max-w-3xl">
           <div className="inline-block px-4 py-1.5 bg-white/20 backdrop-blur-sm border border-white/30 rounded-full mb-6 font-medium text-sm">
-            Tahun Ajaran 2024/2025
+            Tahun Ajaran 2026/2027
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-heading font-extrabold mb-4">PPDB Online</h1>
           <p className="text-blue-100 text-lg max-w-2xl mx-auto">
