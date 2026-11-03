@@ -5,11 +5,11 @@ import { Calendar, ArrowRight } from "lucide-react";
 export const NEWS_DATA = [
   { 
     id: 1, 
-    title: "Penerimaan Peserta Didik Baru (PPDB) Gelombang 1 Dibuka", 
-    date: "12 Mar 2024", 
+    title: "Ketua dan Wakil Baru Media Jurnalistik Ma Al Ibrohimy Periode 2026/2027", 
+    date: "03 Nov 2026", 
     cat: "Pengumuman", 
-    author: "Panitia PPDB",
-    img: "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?q=80&w=2070&auto=format&fit=croq",
+    author: "Muhammad Maulana Sulthon El Syairazy",
+    img: "/Desain tanpa judul.jpeg",
     excerpt: "MA AL-IBROHIMY resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2025/2026."
   },
   { 
