@@ -10,7 +10,7 @@ export const NEWS_DATA = [
     cat: "Pengumuman", 
     author: "Muhammad Maulana Sulthon El Syairazy",
     img: "/Desain tanpa judul.jpeg",
-    excerpt: "MA AL-IBROHIMY resmi membuka pendaftaran peserta didik baru untuk tahun ajaran 2025/2026."
+    excerpt: "Muhammad Maulana Sulthon El Syairazy"
   },
   { 
     id: 2, 
