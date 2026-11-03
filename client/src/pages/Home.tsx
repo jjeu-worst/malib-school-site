@@ -107,7 +107,7 @@ export default function Home() {
               </p>
               
               <div className="pt-4">
-                <p className="font-heading font-bold text-lg text-slate-900">K.H. kepala sekolah</p>
+                <p className="font-heading font-bold text-lg text-slate-900">Achmad Nurul Hidayatulloh S.Pd</p>
                 <p className="text-slate-500 text-sm">Kepala Sekolah MA AL-IBROHIMY</p>
               </div>
             </div>
