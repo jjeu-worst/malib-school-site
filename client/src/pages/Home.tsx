@@ -190,7 +190,7 @@ export default function Home() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {/* Dummy News Cards */}
             {[
-              { id: 1, title: "Ketua dan Wakil Baru Media Jurnalistik MA Al Ibrohimy Periode 2026/2027", date: "03 Nov 2026", cat: "Pengumuman", img: "/Desain tanpa judul.jpeg" },
+              { id: 1, title: "Ketua dan Wakil Baru Media Jurnalistik MA Al Ibrohimy Periode 2026/2027", date: "03 Nov 2026", cat: "Pengumuman", img: "/hero bckg.png" },
               { id: 2, title: "Prestasi Siswa di Ajang Olimpiade Sains Nasional", date: "05 Mar 2026", cat: "Prestasi", img: "https://images.unsplash.com/photo-1565022536102-f7645c84354a?q=80&w=2073&auto=format&fit=crop" },
               { id: 3, title: "Kegiatan Pesantren Kilat Ramadhan 1447 H", date: "23 Mar 2026", cat: "Kegiatan", img: "https://images.unsplash.com/photo-1604085449277-22a4d95267b2?q=80&w=2070&auto=format&fit=crop" },
             ].map((news) => (
