@@ -9,7 +9,7 @@ export const NEWS_DATA = [
     date: "03 Nov 2026", 
     cat: "Pengumuman", 
     author: "Muhammad Maulana Sulthon El Syairazy",
-    img: "/Desain tanpa judul.jpeg",
+    img: "/hero bckg.png",
     excerpt: "Muhammad Maulana Sulthon El Syairazy"
   },
   { 
